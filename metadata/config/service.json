@@ -4,11 +4,12 @@
   "_type": "config.service",
   "attachUserSubmission": true,
   "emailInputNameUser": "email-address",
-  "emailSubjectTeam": "Trial P&A Application",
+  "emailSubjectTeam": "UP FRONT NOTIFICATION P&A APPLICATION",
   "emailSubjectUser": "",
   "emailTemplateUser": "We've sent your application to the Court of Protection.\r\n\r\nThey will contact you by email once they've checked it.\r\n\r\nThere may be a delay in processing your application because of the coronavirus outbreak.",
   "name": "Apply to become a property and financial affairs deputy",
   "pdfHeading": "Apply to become a property and financial affairs deputy",
+  "pdfSubHeading": "Online form output",
   "phase": "beta",
   "phaseText": "This is a new form – your [feedback](https://www.surveymonkey.co.uk/r/DWFWNM9) will help us to improve it. ",
   "serviceEmailAddress": "copapplications@justice.gov.uk"
