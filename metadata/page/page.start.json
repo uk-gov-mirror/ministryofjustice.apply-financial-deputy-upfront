@@ -17,31 +17,7 @@
   "heading": "Apply to become a property and financial affairs deputy",
   "lede": "",
   "steps": [
-    "page.person-details--2",
-    "page.applicant-name-email",
-    "page.pba-number",
-    "page.notify-person",
-    "page.did-you-notify-them",
-    "page.notification-details",
-    "page.person-views",
-    "page.acknowledgement-of-notification-form-check",
-    "page.acknowledgement-of-notification",
-    "page.those-served",
-    "page.check-notifications",
-    "page.consent",
-    "page.serve-respondents",
-    "page.those-not-served",
-    "page.cop1",
-    "page.upload-cop1a",
-    "page.upload-cop3",
-    "page.completed-cop-4",
-    "page.deputy-declaration",
-    "page.urgent-interim-order",
-    "page.upload-cop9",
-    "page.witness-statement-form",
-    "page.upload-cop-24",
-    "page.check-answers",
-    "page.application-sent"
+    "page.help"
   ],
   "url": "/"
 }

@@ -1,7 +1,0 @@
-{
-  "_id": "page.application-sent",
-  "_type": "page.confirmation",
-  "body": "We have sent you a confirmation email.\r\n\r\n### What happens next\r\n\r\nWe've sent your application to the Court of Protection.\r\n\r\nThey will contact you by email once they've checked it.\r\n\r\nThere may be a delay in processing your application because of the coronavirus outbreak.\r\n\r\n### Tell us about your experience of notifying people\r\n\r\nWe’d like to know about your experience of notifying people when applying to the Court of Protection for a property and affairs deputyship.\r\n\r\nSend your feedback to <cop_eapps@justice.gov.uk>. We’ll use your feedback to help improve the process.",
-  "heading": "Application sent",
-  "url": "application-sent"
-}
