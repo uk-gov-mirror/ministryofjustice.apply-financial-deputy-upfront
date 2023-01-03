@@ -1,6 +1,0 @@
-{
-  "_id": "page.consent-check",
-  "_type": "page.uploadCheck",
-  "heading": "Check your upload",
-  "url": "/check-completed-acknowledgment-of-notification-upload"
-}

@@ -1,8 +1,0 @@
-{
-  "_id": "page.check-answers",
-  "_type": "page.summary",
-  "actionType": "custom-2",
-  "sendBody": "By completing and sending this application, you are confirming that the applicant believes that the facts stated in this application form are true.",
-  "sendHeading": "Statement of truth",
-  "url": "check-answers"
-}
